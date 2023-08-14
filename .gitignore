@@ -5,3 +5,6 @@ target
 .settings
 test_data/links/link-*
 /public/
+/.direnv/
+/.envrc
+/result
